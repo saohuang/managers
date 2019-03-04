@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dfs-common/dfs-common.iml" filepath="$PROJECT_DIR$/dfs-common/dfs-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfs-manager/dfs-manager.iml" filepath="$PROJECT_DIR$/dfs-manager/dfs-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfs-manager/dfs-manager-dao/dfs-manager-dao.iml" filepath="$PROJECT_DIR$/dfs-manager/dfs-manager-dao/dfs-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfs-manager/dfs-manager-pojo/dfs-manager-pojo.iml" filepath="$PROJECT_DIR$/dfs-manager/dfs-manager-pojo/dfs-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfs-manager/dfs-manager-service/dfs-manager-service.iml" filepath="$PROJECT_DIR$/dfs-manager/dfs-manager-service/dfs-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfs-manager/dfs-manager-serviceimpl/dfs-manager-serviceimpl.iml" filepath="$PROJECT_DIR$/dfs-manager/dfs-manager-serviceimpl/dfs-manager-serviceimpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfs-manager/dfs-manager-web/dfs-manager-web.iml" filepath="$PROJECT_DIR$/dfs-manager/dfs-manager-web/dfs-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfsparent/dfsparent.iml" filepath="$PROJECT_DIR$/dfsparent/dfsparent.iml" />
+    </modules>
+  </component>
+</project>

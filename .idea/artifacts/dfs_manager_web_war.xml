@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dfs-manager-web:war">
+    <output-path>$PROJECT_DIR$/dfs-manager/dfs-manager-web/target</output-path>
+    <root id="archive" name="dfs-manager-web.war">
+      <element id="artifact" artifact-name="dfs-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>
